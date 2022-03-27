@@ -1,4 +1,4 @@
-### Olá, eu sou a Beatriz! E estou estudando para ser Dev Full Stack. ✨👩🏻‍⚕️ 
+### Olá, eu sou a Beatriz! E estou estudando para ser Dev Full Stack pela Stackx ✨👩🏻‍⚕️ 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/beatrizssartori)
 
