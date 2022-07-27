@@ -1,4 +1,9 @@
-### Olá, eu sou a Beatriz! E estou estudando para ser Dev Full Stack pela Stackx ✨👩🏻‍⚕️ 
+### Olá, eu sou a Beatriz! E estou realizando alguns cursos para ser Dev Full Stack Junior: ✨👩🏻‍⚕️ 
+- Stackx: Capacitação em Desenvolvimento de Software, nível Jr., com carga horária de 360 horas.
+- Data Science Academy: Data Science Aplicada à Área de Saúde, com carga horária de 64 horas.
+- Udemy: Curso Web Design Completo: HTML5, CSS3 e JS + 5 Projetos, com carga horária de 54 horas.
+- Udemy: Firebird SQL - Curso Completo SQL, com carga horária de 54 horas.
+- Udemy: Tableau Desktop - Intermediário - Business Intelligence, com carga horária de 6 horas.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/beatrizssartori)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/beatriz.sartori)
