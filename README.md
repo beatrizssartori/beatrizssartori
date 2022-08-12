@@ -6,16 +6,16 @@
 
 Concluído:
 - Udemy: Firebird SQL - Curso Completo SQL, com carga horária de 2,5 horas. 
+<br/>
 
-### Links úteis: 
-
-
+## Links úteis: 
+<br/>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/beatrizssartori)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/beatriz.sartori)
 
 ![Beatriz Github stats](https://github-readme-stats.vercel.app/api?username=beatrizssartori&show_icons=true&theme=radical)
 
-### Tecnologias que mais gosto de estudar: 
+## Tecnologias que mais gosto de estudar: 
 
 <div style ="display: inline_block"><br/>
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
