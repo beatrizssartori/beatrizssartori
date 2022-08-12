@@ -28,4 +28,4 @@ Concluído:
 
 O meu interesse por me tornar uma Dev começou quando eu conheci a LuckieTech, uma startup que, através do monitoramento de crianças em tratamento de câncer, com dados armazenados em nuvem e inteligência artificial, salva vidas.
 
-É isso que quero fazer no futuro também: trabalhar com Data Science Aplicada à Área da Saúde. Encontrei o meu propósito. 
+É isso que quero fazer no futuro também: trabalhar com <b>Data Science Aplicada à Área da Saúde</b>. Encontrei o meu propósito. 
