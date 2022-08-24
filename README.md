@@ -1,5 +1,5 @@
 ## Olá, eu sou a Beatriz! E estou realizando alguns cursos para ser Dev Full Stack Junior: ✨👩🏻‍⚕️ 
-- Stackx: Capacitação em Desenvolvimento de Software, nível Jr., com carga horária de 360 horas.
+- Stackx: Capacitação em Desenvolvimento de Software, nível Jr., com carga horária de 540h ou 9 meses.
 - Data Science Academy: Data Science Aplicada à Área de Saúde, com carga horária de 64 horas.
 - Udemy: Curso Web Design Completo: HTML5, CSS3 e JS + 5 Projetos, com carga horária de 54 horas.
 - Udemy: Tableau Desktop - Intermediário - Business Intelligence, com carga horária de 6 horas.
